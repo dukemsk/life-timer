@@ -457,6 +457,8 @@ h1 {
 
   .settings-panel {
     position: static;
+    max-height: none;
+    overflow: visible;
   }
 
   .metric-card.wide {
